@@ -1,0 +1,3 @@
+deploying "ExampleExternalContract" (tx: 0x6ab1318de4e80378f854fb18e522efc00572073e001555ba979fa2d277c5325c)...: deployed at 0xCAeB5F1c52E93D0a10B55968121b690417ee8690 with 87989 gas
+deploying "Staker" (tx: 0x947aa4c2bcdd6d3c30eef4c2a6e6241f95549df171c1ac6919f83a4986c18244)...: deployed at 0x81dD17172c44F66B1cac7C569c478a8ca24CF3eF with 451000 gas
+📝 Updated TypeScript contract definition file on ../nextjs/contracts/deployedContracts.ts
